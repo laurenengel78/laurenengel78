@@ -8,4 +8,4 @@
 * Uses OpenAI API to make recipes with the ingredients in your fridge!
 * Prototype out now, full version to be released in December 2024
 
-**Connect with me on [LinkedIn](linkedin.com/in/lauren-engel-3311b32b2)**
+**Connect with me on [LinkedIn](linkedin.com/in/lauren-engel-3311b32b2)!**
