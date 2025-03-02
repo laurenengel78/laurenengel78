@@ -4,7 +4,7 @@
 * Kutztown University EMACS Scholar
 * Kutztown University Dean's List (Fall 2021 - Fall 2024)
 
-**Check out my projects:
+**Check out my projects:**
 
 **[CookAI](https://github.com/acageduser/cook-ai)**
 * Uses OpenAI API to make recipes with the ingredients in your fridge!
