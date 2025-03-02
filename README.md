@@ -9,7 +9,7 @@
 **[CookAI](https://github.com/acageduser/cook-ai)**
 * Uses OpenAI API to make recipes with the ingredients in your fridge!
 
-**[DataFox](https://github.com/TimPasquel/DATA_Fox)**
+Coming Soon: **DataFox**
 * Simplifying open-source intelligence! Enter in known information about someone and DataFox will fill in the gaps.
 
 **Connect with me on [LinkedIn](linkedin.com/in/laurenengel)!**
