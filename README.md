@@ -12,4 +12,4 @@
 Coming Soon: **DataFox**
 * Simplifying open-source intelligence! Enter in known information about someone and DataFox will fill in the gaps.
 
-**Connect with me on [LinkedIn](linkedin.com/in/laurenengel)!**
+**Connect with me on [LinkedIn](www.linkedin.com/in/laurenengel)!**
